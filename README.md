@@ -1,4 +1,3 @@
-# Skialp Tatry
 ### Lokality
 Aby sme vyťažili maximum a teda boli v krásnej prírode, zároveň mali viaceré možnosti pre začiatočníkov a veľkú pravdepodobnosť dobrých snehových podmienok, máme na výber asi dve lokality. 
 Pre obe platí:
@@ -46,6 +45,6 @@ Nedeľa podľa dohody, síl, času ďalšia, asi menšia túra.
 
 ### Poznámky
 Náhodou som narazil na tento odkaz, možno sa v budúcnu hodí: 
-https://www.zagurami.eu/ako-zacat-so-skialpom-3-tipy-na-tury-pre-zaciatocnikov/
-https://www.zagurami.eu/skialp-vo-velkej-studenej-doline-maly-zavrat-a-svistovy-stit/
-https://www.zagurami.eu/navstevny-poriadok-tanap/
+* https://www.zagurami.eu/ako-zacat-so-skialpom-3-tipy-na-tury-pre-zaciatocnikov/
+* https://www.zagurami.eu/skialp-vo-velkej-studenej-doline-maly-zavrat-a-svistovy-stit/
+* https://www.zagurami.eu/navstevny-poriadok-tanap/
